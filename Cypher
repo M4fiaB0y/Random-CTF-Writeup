@@ -1,15 +1,18 @@
 our challenge is crypto 
 
-I’m not sure what this means, but it was left lying around: blorpy
+I’m not sure what this means, 
+but it was left lying around: blorpy
 
 gwox{RgqssihYspOntqpxs}
 
-We don't know what kind of code it is. We have to copy the code.
+We don't know what kind of code it is.
+We have to copy the code.
  
 our code is 
 gwox{RgqssihYspOntqpxs
 
-We first need to analyze this code, what kind of code it is.
+We first need to analyze this code, 
+what kind of code it is.
 
 yes we got it.
 
@@ -18,7 +21,7 @@ this is Vigenere Chypher
 we have to decode the code. 
 tools:https://www.dcode.fr/vigenere-cipher
 
-we have the flag : flag{CiphersAreAwesome}
+we git the flag : flag{CiphersAreAwesome}
 
 
 
