@@ -21,7 +21,7 @@ this is Vigenere Chypher
 we have to decode the code. 
 tools:https://www.dcode.fr/vigenere-cipher
 
-we git the flag : flag{CiphersAreAwesome}
+we got the flag : flag{CiphersAreAwesome}
 
 
 
