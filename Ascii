@@ -1,15 +1,26 @@
 our challenge is crypto 
 
 
-I got a new hard drive just to hold my flag, but I'm afraid that it rotted. What do I do? The only thing I could get off of it was this:
- 01000011010101000100011001111011010000100110100101110100010111110100011001101100011010010111000001110000011010010110111001111101
+I got a new hard drive just to hold my flag,
+but I'm afraid that it rotted. 
+What do I do? The only thing I could get off 
+of it was this:
+0100001101010100010001100111101
+10100001001101001011101000101111
+101000110011011000110100101110000
+01110000011010010110111001111101
 
-We don't know what kind of code it is. We have to copy the code.
+We don't know what kind of code it is. 
+We have to copy the code.
  
 our code is 
-01000011010101000100011001111011010000100110100101110100010111110100011001101100011010010111000001110000011010010110111001111101
+0100001101010100010001100111101101
+0000100110100101110100010111110100
+0110011011000110100101110000011100
+00011010010110111001111101
 
-We first need to analyze this code, what kind of code it is.
+We first need to analyze this code, 
+what kind of code it is.
 
 yes we got it.
 
@@ -18,7 +29,7 @@ this is Ascii Code
 we have to decode the code. 
 tools:https://www.dcode.fr/ascii-code
 
-we have the flag : CTF{Bit_Flippin}
+we have the flag :CTF{Bit_Flippin}.
 
 
 
