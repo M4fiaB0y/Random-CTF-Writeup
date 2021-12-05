@@ -1,0 +1,23 @@
+Our RSA challenge is here
+
+
+RSA is a public key cryptosystem, where one can encrypt a message with one key and decrypt it with another. We've intercepted a secure message encrypted with RSA, as well as the key used to encrypt it. Since RSA keys have to be pretty big in order to be secure, we're pretty sure you can break this one. Give it a shot!
+
+Ciphertext: 0x2526512a4abf23fca755defc497b9ab
+e: 257
+n: 0x592f144c0aeac50bdf57cf6a6a6e135
+
+and the solve is here
+
+1. The name of this encryption is RSA.So go to this site first: https://www.dcode.fr/rsa-cipher 
+
+
+2. Fill up the box step by step
+C=  0x2526512a4abf23fca755defc497b9ab E= 257  
+N= 0x592f144c0aeac50bdf57cf6a6a6e135
+
+The value of these e or N or P in RSA is very important so you will always notice these.
+
+If any 3 (at least) characters like E or P or N and their value are given in a Cryptography Challenge then close your eyes and understand that this is RSA Cipher.
+
+our flag is ''you_broke_rsa!''
